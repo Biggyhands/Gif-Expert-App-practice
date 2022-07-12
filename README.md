@@ -1,5 +1,5 @@
 # Gif-Expert-App-practice
-Udemy react course practice (HTML - CSS - JS - REACT)
+react course practice (HTML - CSS - JS - REACT)
 
 watch deploy= https://gif-expert-app-biggyhands.netlify.app/
 
